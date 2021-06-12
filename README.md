@@ -1,1 +1,1 @@
-# LibraryApp-Angular
+A virtual library collection built on MEAN stack.
